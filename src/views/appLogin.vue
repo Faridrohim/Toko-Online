@@ -150,8 +150,8 @@ margin-top: 0px;
 .buatakun {
 height: 250px;
 width: 400px;
-right: 20%;
-top: 25%;
+right: 10%;
+top: 15%;
 position: absolute;
 padding: 20px;
 }
