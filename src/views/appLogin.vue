@@ -76,8 +76,8 @@ const handleLogin = () => {
 <style scoped>
  @media screen and (max-width: 468px) {
     .buatakun {
-      width: 250px; 
-      top: 5%;
+      width: 200px; 
+      top: 15%;
     }
     .buatakun h3 {
         font-size: 14px;
@@ -108,8 +108,8 @@ const handleLogin = () => {
   }
 @media screen and (max-width: 768px) {
     .buatakun {
-      width: 250px; 
-    margin-right: -50px;
+    width: 250px; 
+    margin-right: -70px;
         
     }
     .buatakun h3 {
