@@ -149,7 +149,7 @@ const handleLogin = () => {
     .buatakun {
     width: 250px; 
     margin-right: -70px;
-        
+    top: 13%;
     }
     .buatakun h3 {
         font-size: 14px;
