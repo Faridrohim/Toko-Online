@@ -23,7 +23,7 @@
                 <img src="@/assets/svg/catatan.svg" class="logo-porfile">
                 <span  style="padding-left: 10px;" class="span-profile" >PESANAN</span>
                 <ul>
-                    <router-link to="/appOrder" class="link"><li>Order History</li></router-link>
+                    <router-link to="/Order" class="link"><li>Order History</li></router-link>
                 </ul>
                 </div>
                 <div class="notifikasi">
