@@ -9,7 +9,7 @@
             <h3>MASUKKAN PASSWORD</h3>
             <input type="password" placeholder="Masukkan Kata Sandi Anda" required id="passwordInput" v-model="password">
             <p style="font-size: 13px;">Kata sandi minimal 8 karakter dan terdiri dari huruf dan angka. Hanya simbol -_.@ yang dapat digunakan.</p>
-            <h2>ATAU</h2>
+            <h2 class="h2spasi">ATAU</h2>
             <div class="chrome">
                 <h3>GOOGLE</h3>
                 <span>     
@@ -141,6 +141,9 @@ const handleLogin = () => {
 margin-top: 70px;
 margin-left: 70px;
 margin-bottom: 70px;
+}
+.h2spasi{
+    margin-top: -50px;
 }
 .buatakun {
 height: 250px;
