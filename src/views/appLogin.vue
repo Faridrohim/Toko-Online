@@ -143,7 +143,7 @@ margin-left: 70px;
 margin-bottom: 70px;
 }
 .h2spasi{
-margin-top: -30px;
+margin-top: -10px;
 }
 .buatakun {
 height: 250px;
