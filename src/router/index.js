@@ -22,7 +22,7 @@ import datauser from '@/views/datauser'
 
 const routes = [
   {
-    path: '/',
+    path: '/Index',
     name: 'Index',
     component: appIndex,
   },
@@ -88,7 +88,7 @@ const routes = [
     component: appOpsikurir,
   },
   {
-    path: '/Login',
+    path: '/',
     name: 'Login',
     component: appLogin,
   },
