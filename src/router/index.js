@@ -57,7 +57,7 @@ const routes = [
     component: appNavbar,
   },
   {
-    path: '/',
+    path: '/PageNotFound',
     name: "PageNotFound",
     component: PageNotFound,
   },
