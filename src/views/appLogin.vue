@@ -190,7 +190,7 @@ margin-top: 0px;
 height: 250px;
 width: 400px;
 right: 10%;
-top: 10%;
+top: -10%;
 position: absolute;
 padding: 20px;
 }
