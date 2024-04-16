@@ -96,7 +96,7 @@ const handleLogin = () => {
     }
   
     .btn-facebook, .btn-chrome {
-      margin-top: -40px; 
+      margin-top: -60px; 
       margin-left: calc(50% - 15px);
     }
   
