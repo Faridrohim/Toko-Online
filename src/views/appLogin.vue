@@ -74,11 +74,16 @@ const handleLogin = () => {
 
 
 <style scoped>
- @media screen and (max-width: 468px) {
+ @media screen and (max-width: 430px) {
     .buatakun {
       width: 200px; 
       top: 15%;
     margin-right: -70px;
+    }
+    .from {
+      width: 200px;
+      height: 400px;
+      overflow-y: scroll;
     }
     .buatakun h3 {
         font-size: 14px;
