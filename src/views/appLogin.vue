@@ -96,7 +96,7 @@ const handleLogin = () => {
     }
   
     .btn-facebook, .btn-chrome {
-      margin-top: -160px; 
+      margin-top: -140px; 
       margin-left: calc(50% - 15px);
     }
   
@@ -143,7 +143,7 @@ margin-left: 70px;
 margin-bottom: 70px;
 }
 .h2spasi{
-margin-top: -10px;
+margin-top: 0px;
 }
 .buatakun {
 height: 250px;
