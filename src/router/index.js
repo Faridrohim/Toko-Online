@@ -57,7 +57,7 @@ const routes = [
     component: appNavbar,
   },
   {
-    path: '/:catchAll(.*)*',
+    path: '/',
     name: "PageNotFound",
     component: PageNotFound,
   },
