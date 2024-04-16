@@ -74,7 +74,38 @@ const handleLogin = () => {
 
 
 <style scoped>
- 
+ @media screen and (max-width: 468px) {
+    .buatakun {
+      width: 250px; 
+      top: 5%;
+    }
+    .buatakun h3 {
+        font-size: 14px;
+    }
+    .buatakun h2 {
+        font-size: 14px;
+    }
+  
+    .btn-regis, .btn-regis1 {
+      width: 100%; 
+    }
+  
+    .facebook, .chrome {
+      width: 100%;
+      margin-top: 15px;
+    }
+  
+    .btn-facebook, .btn-chrome {
+      margin-top: -40px; 
+      margin-left: calc(50% - 15px);
+    }
+  
+    .from {
+      width: 200%; 
+      font-size: 16px;
+
+    }
+  }
 @media screen and (max-width: 768px) {
     .buatakun {
       width: 250px; 
