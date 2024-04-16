@@ -77,7 +77,7 @@ const handleLogin = () => {
     @media screen and (max-width: 980px) {
     .buatakun {
     width: 250px; 
-    margin-right: -70px;
+    margin-right: -100px;
     top: 5%;
     }
     .buatakun h3 {
@@ -111,7 +111,7 @@ const handleLogin = () => {
     .buatakun {
       width: 200px; 
       top: 15%;
-    margin-right: -70px;
+    margin-right: -100px;
     }
     .from {
       width: 200px;
