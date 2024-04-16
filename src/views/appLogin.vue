@@ -189,7 +189,7 @@ margin-top: 0px;
 .buatakun {
 height: 250px;
 width: 400px;
-right: 13%;
+right: 10%;
 top: 15%;
 position: absolute;
 padding: 20px;
