@@ -127,7 +127,9 @@
   position: relative;
   display: inline-block;
   margin-right: 40px;
-  top: 29px;
+  top: -29px;
+  position: absolute;
+    
   }
   
   nav ul li:hover {
