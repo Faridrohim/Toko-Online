@@ -120,7 +120,6 @@ um<template>
   justify-content: start;
   font-family: 'Bebas Neue';
   font-size: 30px;
-  top: -10px;
   }
   
   nav ul li  {
@@ -128,7 +127,7 @@ um<template>
   position: relative;
   display: inline-block;
   margin-right: 40px;
-  top: -10px;
+
     
   }
   
