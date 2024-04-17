@@ -84,6 +84,116 @@
 </script>
 
 <style scoped>
+    @media screen and (max-width: 414px) {
+    .container {
+        width: 100%;
+        height: auto;
+        background-color: #232121;
+        position: relative;
+        font-family: 'inter';
+        margin-top: 0;
+        padding: 20px;
+    }
+
+    .border-bottom {
+        height: 1px;
+        width: 90%;
+        border-bottom: 1px #FFFFFF50 solid;
+        margin-left: 5%;
+        position: relative;
+        margin-top: 20px;
+    }
+
+    .logo {
+        width: 80px;
+        height: auto;
+        position: relative;
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+
+    .copyright {
+        margin-left: 20px;
+        color: #FFFFFF;
+        font-size: 10px;
+        margin-top: 20px;
+    }
+
+    .icon-telpon {
+        margin-top: 10px;
+        height: 20px;
+        width: auto;
+    }
+
+    .icon-mail {
+        margin-top: 10px;
+        width: 20px;
+    }
+
+    .icon-social {
+        margin-top: 20px;
+        height: 16px;
+        width: auto;
+        margin-right: 10px;
+    }
+
+    .icon-word {
+        height: 30px;
+        margin-bottom: -5px;
+    }
+
+    .Halaman, .Bantuan, .kontak, .Social {
+        color: #FFFFFF;
+        margin-top: 10px;
+    }
+
+    .Halaman {
+        margin-left: 5%;
+        margin-top: 20px;
+    }
+
+    .Bantuan {
+        margin-left: 20%;
+        margin-top: -50px;
+    }
+
+    .kontak {
+        margin-left: 40%;
+        margin-top: -30px;
+    }
+
+    .Social {
+        margin-left: 60%;
+        margin-top: -20px;
+    }
+
+    .Halaman a, .Bantuan a, .kontak a, .Social a {
+        text-decoration: none;
+        color: #FFFFFF;
+        font-size: 12px;
+    }
+
+    .Link-Halaman p, .Link-Bantuan p {
+        margin-top: 5px;
+        font-weight: 400;
+        font-size: 12px;
+    }
+
+    .span-telpon {
+        position: relative;
+        margin-top: 10px;
+        margin-left: 5px;
+        font-size: 12px;
+    }
+
+    .span-mail {
+        position: relative;
+        margin-top: 10px;
+        margin-left: 5px;
+        font-size: 12px;
+    }
+}
+
 .container {
     width:  1220px;
     height: 400px;
