@@ -85,7 +85,7 @@
 
 <style scoped>
 .container {
-    width:  1110px;
+    width:  auto;
     height: 400px;
     background-color: #232121;
     position: absolute;
