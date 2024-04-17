@@ -92,7 +92,7 @@
     padding-left: 50px;
     padding-right: 50px;
     font-family: 'inter';
-    margin-top: 1200px;
+    margin-top: 800px;
     bottom: 0px;
     }
 .border-bottom {
@@ -101,7 +101,7 @@
     border-bottom:  1px #FFFFFF50 solid;
     margin-left: 10.5%;
     position: absolute;
-    margin-top: 1200px;
+    margin-top: 800px;
 }
 .logo {
     width: 100px; 
