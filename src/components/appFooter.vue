@@ -85,10 +85,11 @@
 
 <style scoped>
 .container {
-    width:  1120px;
+    width:  1220px;
     height: 400px;
     background-color: #232121;
     position: absolute;
+    bottom: 0;
     font-family: 'inter';
     margin-top: 750px
     }
