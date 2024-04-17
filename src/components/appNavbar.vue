@@ -119,7 +119,7 @@
   justify-content: start;
   font-family: 'Bebas Neue';
   font-size: 30px;
-  margin-bottom: 20px;
+  top: 29px;
   }
   
   nav ul li  {
