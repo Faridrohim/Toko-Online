@@ -185,7 +185,7 @@ um<template>
   .icon-nav {
   display: flex;
   right: 0;
-  top: 20px;
+  top: 22px;
   position: fixed;
   }
   .icon {
