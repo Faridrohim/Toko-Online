@@ -457,7 +457,7 @@ padding: 5px 10px;
 .icon-nav {
 display: flex;
 right: 0;
-top: 9px;
+top: 12px;
 position: fixed;
 }
 .icon {
