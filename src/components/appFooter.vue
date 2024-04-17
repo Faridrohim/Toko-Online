@@ -85,14 +85,14 @@
 
 <style scoped>
 .container {
-    width:  100%;
+    width:  1100;
     height: 400px;
     background-color: #232121;
     position: absolute;
     padding-left: 50px;
     padding-right: 50px;
     font-family: 'inter';
-    margin-top: 700px
+    margin-top: 750px
     }
 .border-bottom {
     height: 275px;
