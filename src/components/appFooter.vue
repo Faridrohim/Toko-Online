@@ -85,7 +85,7 @@
 
 <style scoped>
 .container {
-    width:  1120px;
+    width:  1100px;
     height: 400px;
     background-color: #232121;
     position: absolute;
@@ -93,6 +93,7 @@
     padding-right: 50px;
     font-family: 'inter';
     margin-top: 1200px;
+    bottom: 0px;
     }
 .border-bottom {
     height: 275px;
