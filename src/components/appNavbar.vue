@@ -72,6 +72,7 @@
   }
   nav ul {
     font-size: 16px;
+    top: -29px;
   }
   .form-search {
     width: 80px;
@@ -119,7 +120,7 @@
   justify-content: start;
   font-family: 'Bebas Neue';
   font-size: 30px;
-  
+  top: 29px;
   }
   
   nav ul li  {
