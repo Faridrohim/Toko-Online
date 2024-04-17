@@ -119,7 +119,7 @@
   justify-content: start;
   font-family: 'Bebas Neue';
   font-size: 30px;
-  top: 29px;
+  
   }
   
   nav ul li  {
@@ -127,7 +127,7 @@
   position: relative;
   display: inline-block;
   margin-right: 40px;
-  margin-top: 30px; 
+  top: 29px;
   }
   
   nav ul li:hover {
