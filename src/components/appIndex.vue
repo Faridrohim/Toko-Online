@@ -327,7 +327,7 @@ z-index: 1;
 }
 nav li {
   font-size: 14px;
-     top: 15px;
+     top: 18px;
 }
 .logo {
  height: 20px;
