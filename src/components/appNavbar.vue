@@ -72,7 +72,7 @@ um<template>
   }
   nav ul {
     font-size: 16px;
-    top: 15px;
+    top: 7px;
   }
   .form-search {
     width: 80px;
@@ -85,7 +85,7 @@ um<template>
   height: auto;
   position: fixed;
   margin-left: 40px;
-  margin-top: 30px;
+  margin-top: 27px;
   }
   .link {
       color: #FFFFFF;
@@ -120,7 +120,7 @@ um<template>
   justify-content: start;
   font-family: 'Bebas Neue';
   font-size: 30px;
-    top: 15px;
+    top: 7px;
   }
   
   nav ul li  {
@@ -128,7 +128,7 @@ um<template>
   position: relative;
   display: inline-block;
   margin-right: 40px;
-  top: 15px;
+  top: 7px;
   }
   
   nav ul li:hover {
