@@ -325,9 +325,9 @@ z-index: 1;
 .Navbar {
     height: 60px; 
 }
-nav li {
+nav ul {
   font-size: 14px;
-     top: 18px;
+     top: 15px;
 }
 .logo {
  height: 20px;
