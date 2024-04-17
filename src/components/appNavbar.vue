@@ -5,7 +5,7 @@ um<template>
       <ul>
         <li><router-link to="/Index" class="link">Pria</router-link></li>
         <li><router-link to="/Index" class="link">Wanita</router-link></li>
-        <li><router-link to="/Index" class="link">Tentang Kami</router-link></li>
+        <li><router-link to="/About" class="link">Tentang Kami</router-link></li>
         <li><router-link to="/Index" class="link">Blog</router-link></li>
       </ul>
     </nav>
