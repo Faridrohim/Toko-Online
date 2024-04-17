@@ -92,7 +92,7 @@
     padding-left: 50px;
     padding-right: 50px;
     font-family: 'inter';
-    bottom: 0px;
+    bottom: 0;
     }
 .border-bottom {
     height: 275px;
