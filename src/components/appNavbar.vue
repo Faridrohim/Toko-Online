@@ -1,4 +1,4 @@
-<template>
+um<template>
   <div class="Navbar ">
     <img src="@/assets/svg/logo.svg" alt="Logo" class="logo">
     <nav>
@@ -72,7 +72,7 @@
   }
   nav ul {
     font-size: 16px;
-    top: -10px;
+    top: 10px;
   }
   .form-search {
     width: 80px;
@@ -129,7 +129,6 @@
   display: inline-block;
   margin-right: 40px;
   top: -10px;
-  position: absolute;
     
   }
   
