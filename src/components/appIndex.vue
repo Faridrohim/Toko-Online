@@ -357,7 +357,7 @@ width: 100px;
 height: auto;
 position: fixed;
 margin-left: 40px;
-margin-top: 24px;
+margin-top: 27px;
 }
 .link {
     color: #FFFFFF;
