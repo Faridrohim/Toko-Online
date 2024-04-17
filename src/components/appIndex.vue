@@ -327,6 +327,7 @@ z-index: 1;
 }
 nav li {
   font-size: 14px;
+     top: 15px;
 }
 .logo {
  height: 20px;
@@ -398,7 +399,7 @@ color: #FFFFFF;
 position: relative;
 display: inline-block;
 margin-right: 40px;
-margin-top: 30px; 
+
 }
 
 nav ul li:hover {
