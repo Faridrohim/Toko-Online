@@ -327,7 +327,7 @@ z-index: 1;
 }
 nav ul {
   font-size: 14px;
-  top: 9px;
+  top: 7px;
 }
 .logo {
  height: 20px;
@@ -392,7 +392,7 @@ display: flex;
 justify-content: start;
 font-family: 'Bebas Neue';
 font-size: 30px;
-top: 9px;
+top: 7px;
 }
 
 nav ul li  {
@@ -400,7 +400,7 @@ color: #FFFFFF;
 position: relative;
 display: inline-block;
 margin-right: 40px;
-top: 9px;
+top: 7px;
 }
 
 nav ul li:hover {
